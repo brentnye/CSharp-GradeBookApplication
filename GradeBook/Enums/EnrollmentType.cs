@@ -7,6 +7,4 @@
         National,
         International
     }
-
-
 }
